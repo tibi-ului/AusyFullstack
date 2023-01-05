@@ -1,0 +1,7 @@
+C:\CSharp\CustomCollections\CustomCollections\bin\Debug\CustomCollections.exe.config
+C:\CSharp\CustomCollections\CustomCollections\bin\Debug\CustomCollections.exe
+C:\CSharp\CustomCollections\CustomCollections\bin\Debug\CustomCollections.pdb
+C:\CSharp\CustomCollections\CustomCollections\obj\Debug\CustomCollections.csproj.AssemblyReference.cache
+C:\CSharp\CustomCollections\CustomCollections\obj\Debug\CustomCollections.csproj.CoreCompileInputs.cache
+C:\CSharp\CustomCollections\CustomCollections\obj\Debug\CustomCollections.exe
+C:\CSharp\CustomCollections\CustomCollections\obj\Debug\CustomCollections.pdb

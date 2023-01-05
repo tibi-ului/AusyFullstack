@@ -1,0 +1,15 @@
+c:\CSharp\RegExpExample\RegExpExample\bin\Debug\RegExpExample.exe.config
+c:\CSharp\RegExpExample\RegExpExample\bin\Debug\RegExpExample.exe
+c:\CSharp\RegExpExample\RegExpExample\bin\Debug\RegExpExample.pdb
+c:\CSharp\RegExpExample\RegExpExample\obj\Debug\RegExpExample.csproj.AssemblyReference.cache
+c:\CSharp\RegExpExample\RegExpExample\obj\Debug\RegExpExample.csproj.CoreCompileInputs.cache
+c:\CSharp\RegExpExample\RegExpExample\obj\Debug\RegExpExample.exe
+c:\CSharp\RegExpExample\RegExpExample\obj\Debug\RegExpExample.pdb
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section27String,DateTime,Math\RegExpExample\bin\Debug\RegExpExample.exe.config
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section27String,DateTime,Math\RegExpExample\bin\Debug\RegExpExample.exe
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section27String,DateTime,Math\RegExpExample\bin\Debug\RegExpExample.pdb
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section27String,DateTime,Math\RegExpExample\obj\Debug\RegExpExample.csproj.AssemblyReference.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section27String,DateTime,Math\RegExpExample\obj\Debug\RegExpExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section27String,DateTime,Math\RegExpExample\obj\Debug\RegExpExample.csproj.CoreCompileInputs.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section27String,DateTime,Math\RegExpExample\obj\Debug\RegExpExample.exe
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section27String,DateTime,Math\RegExpExample\obj\Debug\RegExpExample.pdb

@@ -1,0 +1,6 @@
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section25BankProject\BankProject\BankProject.Exceptions\bin\Debug\BankProject.Exceptions.dll
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section25BankProject\BankProject\BankProject.Exceptions\bin\Debug\BankProject.Exceptions.pdb
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section25BankProject\BankProject\BankProject.Exceptions\obj\Debug\BankProject.Exceptions.csproj.AssemblyReference.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section25BankProject\BankProject\BankProject.Exceptions\obj\Debug\BankProject.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section25BankProject\BankProject\BankProject.Exceptions\obj\Debug\BankProject.Exceptions.dll
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section25BankProject\BankProject\BankProject.Exceptions\obj\Debug\BankProject.Exceptions.pdb

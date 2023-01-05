@@ -1,0 +1,11 @@
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\Deconstructing\Deconstructing\bin\Debug\Deconstructing.exe.config
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\Deconstructing\Deconstructing\bin\Debug\Deconstructing.exe
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\Deconstructing\Deconstructing\bin\Debug\Deconstructing.pdb
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\Deconstructing\Deconstructing\bin\Debug\ClassLibrary1.dll
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\Deconstructing\Deconstructing\bin\Debug\ClassLibrary1.pdb
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\Deconstructing\Deconstructing\obj\Debug\Deconstructing.csproj.AssemblyReference.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\Deconstructing\Deconstructing\obj\Debug\Deconstructing.csproj.SuggestedBindingRedirects.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\Deconstructing\Deconstructing\obj\Debug\Deconstructing.csproj.CoreCompileInputs.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\Deconstructing\Deconstructing\obj\Debug\Deconstructing.csproj.CopyComplete
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\Deconstructing\Deconstructing\obj\Debug\Deconstructing.exe
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\Deconstructing\Deconstructing\obj\Debug\Deconstructing.pdb

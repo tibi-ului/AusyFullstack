@@ -1,0 +1,7 @@
+C:\CSharp\SubtractDateExample\SubtractDateExample\bin\Debug\SubtractDateExample.exe.config
+C:\CSharp\SubtractDateExample\SubtractDateExample\bin\Debug\SubtractDateExample.exe
+C:\CSharp\SubtractDateExample\SubtractDateExample\bin\Debug\SubtractDateExample.pdb
+C:\CSharp\SubtractDateExample\SubtractDateExample\obj\Debug\SubtractDateExample.csproj.AssemblyReference.cache
+C:\CSharp\SubtractDateExample\SubtractDateExample\obj\Debug\SubtractDateExample.csproj.CoreCompileInputs.cache
+C:\CSharp\SubtractDateExample\SubtractDateExample\obj\Debug\SubtractDateExample.exe
+C:\CSharp\SubtractDateExample\SubtractDateExample\obj\Debug\SubtractDateExample.pdb

@@ -1,0 +1,11 @@
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section5Fields\FieldsExample\FieldsExample\bin\Debug\FieldsExample.exe.config
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section5Fields\FieldsExample\FieldsExample\bin\Debug\FieldsExample.exe
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section5Fields\FieldsExample\FieldsExample\bin\Debug\FieldsExample.pdb
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section5Fields\FieldsExample\FieldsExample\bin\Debug\ClassLibrary1.dll
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section5Fields\FieldsExample\FieldsExample\bin\Debug\ClassLibrary1.pdb
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section5Fields\FieldsExample\FieldsExample\obj\Debug\FieldsExample.csproj.AssemblyReference.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section5Fields\FieldsExample\FieldsExample\obj\Debug\FieldsExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section5Fields\FieldsExample\FieldsExample\obj\Debug\FieldsExample.csproj.CoreCompileInputs.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section5Fields\FieldsExample\FieldsExample\obj\Debug\FieldsExample.csproj.CopyComplete
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section5Fields\FieldsExample\FieldsExample\obj\Debug\FieldsExample.exe
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section5Fields\FieldsExample\FieldsExample\obj\Debug\FieldsExample.pdb

@@ -1,0 +1,11 @@
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section23AnonymusTypes\AnonymousObjectsExample\AnonymousObjectsExample\bin\Debug\AnonymousObjectsExample.exe.config
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section23AnonymusTypes\AnonymousObjectsExample\AnonymousObjectsExample\bin\Debug\AnonymousObjectsExample.exe
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section23AnonymusTypes\AnonymousObjectsExample\AnonymousObjectsExample\bin\Debug\AnonymousObjectsExample.pdb
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section23AnonymusTypes\AnonymousObjectsExample\AnonymousObjectsExample\bin\Debug\ClassLibrary1.dll
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section23AnonymusTypes\AnonymousObjectsExample\AnonymousObjectsExample\bin\Debug\ClassLibrary1.pdb
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section23AnonymusTypes\AnonymousObjectsExample\AnonymousObjectsExample\obj\Debug\AnonymousObjectsExample.csproj.AssemblyReference.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section23AnonymusTypes\AnonymousObjectsExample\AnonymousObjectsExample\obj\Debug\AnonymousObjectsExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section23AnonymusTypes\AnonymousObjectsExample\AnonymousObjectsExample\obj\Debug\AnonymousObjectsExample.csproj.CoreCompileInputs.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section23AnonymusTypes\AnonymousObjectsExample\AnonymousObjectsExample\obj\Debug\AnonymousObjectsExample.csproj.CopyComplete
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section23AnonymusTypes\AnonymousObjectsExample\AnonymousObjectsExample\obj\Debug\AnonymousObjectsExample.exe
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section23AnonymusTypes\AnonymousObjectsExample\AnonymousObjectsExample\obj\Debug\AnonymousObjectsExample.pdb

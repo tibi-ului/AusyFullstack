@@ -1,0 +1,12 @@
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\ValueTuples\ValueTuples\bin\Debug\ValueTuples.exe.config
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\ValueTuples\ValueTuples\bin\Debug\ValueTuples.exe
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\ValueTuples\ValueTuples\bin\Debug\ValueTuples.pdb
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\ValueTuples\ValueTuples\bin\Debug\ClassLibrary1.dll
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\ValueTuples\ValueTuples\bin\Debug\ClassLibrary1.pdb
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\ValueTuples\ValueTuples\bin\Debug\ClassLibrary1.dll.config
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\ValueTuples\ValueTuples\obj\Debug\ValueTuples.csproj.AssemblyReference.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\ValueTuples\ValueTuples\obj\Debug\ValueTuples.csproj.SuggestedBindingRedirects.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\ValueTuples\ValueTuples\obj\Debug\ValueTuples.csproj.CoreCompileInputs.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\ValueTuples\ValueTuples\obj\Debug\ValueTuples.csproj.CopyComplete
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\ValueTuples\ValueTuples\obj\Debug\ValueTuples.exe
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\ValueTuples\ValueTuples\obj\Debug\ValueTuples.pdb

@@ -1,0 +1,8 @@
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section27String,DateTime,Math\StringForLoop\StringForLoop\bin\Debug\StringForLoop.exe.config
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section27String,DateTime,Math\StringForLoop\StringForLoop\bin\Debug\StringForLoop.exe
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section27String,DateTime,Math\StringForLoop\StringForLoop\bin\Debug\StringForLoop.pdb
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section27String,DateTime,Math\StringForLoop\StringForLoop\obj\Debug\StringForLoop.csproj.AssemblyReference.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section27String,DateTime,Math\StringForLoop\StringForLoop\obj\Debug\StringForLoop.csproj.SuggestedBindingRedirects.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section27String,DateTime,Math\StringForLoop\StringForLoop\obj\Debug\StringForLoop.csproj.CoreCompileInputs.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section27String,DateTime,Math\StringForLoop\StringForLoop\obj\Debug\StringForLoop.exe
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section27String,DateTime,Math\StringForLoop\StringForLoop\obj\Debug\StringForLoop.pdb

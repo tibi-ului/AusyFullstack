@@ -1,0 +1,8 @@
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section27String,DateTime,Math\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe.config
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section27String,DateTime,Math\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section27String,DateTime,Math\StringBuilder\StringBuilder\bin\Debug\StringBuilder.pdb
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section27String,DateTime,Math\StringBuilder\StringBuilder\obj\Debug\StringBuilder.csproj.AssemblyReference.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section27String,DateTime,Math\StringBuilder\StringBuilder\obj\Debug\StringBuilder.csproj.SuggestedBindingRedirects.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section27String,DateTime,Math\StringBuilder\StringBuilder\obj\Debug\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section27String,DateTime,Math\StringBuilder\StringBuilder\obj\Debug\StringBuilder.exe
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section27String,DateTime,Math\StringBuilder\StringBuilder\obj\Debug\StringBuilder.pdb

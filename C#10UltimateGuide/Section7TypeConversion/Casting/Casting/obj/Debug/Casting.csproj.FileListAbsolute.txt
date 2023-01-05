@@ -1,0 +1,8 @@
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section7TypeConversion\Casting\Casting\bin\Debug\Casting.exe.config
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section7TypeConversion\Casting\Casting\bin\Debug\Casting.exe
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section7TypeConversion\Casting\Casting\bin\Debug\Casting.pdb
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section7TypeConversion\Casting\Casting\obj\Debug\Casting.csproj.AssemblyReference.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section7TypeConversion\Casting\Casting\obj\Debug\Casting.csproj.SuggestedBindingRedirects.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section7TypeConversion\Casting\Casting\obj\Debug\Casting.csproj.CoreCompileInputs.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section7TypeConversion\Casting\Casting\obj\Debug\Casting.exe
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section7TypeConversion\Casting\Casting\obj\Debug\Casting.pdb

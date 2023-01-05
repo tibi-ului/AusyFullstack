@@ -1,0 +1,8 @@
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section26Linq\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section26Linq\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section26Linq\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section26Linq\LINQ\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section26Linq\LINQ\LINQ\obj\Debug\LINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section26Linq\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section26Linq\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section26Linq\LINQ\LINQ\obj\Debug\LINQ.pdb

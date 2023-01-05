@@ -1,0 +1,8 @@
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section28IOSerializationEncoding\File\File\bin\Debug\File.exe.config
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section28IOSerializationEncoding\File\File\bin\Debug\File.exe
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section28IOSerializationEncoding\File\File\bin\Debug\File.pdb
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section28IOSerializationEncoding\File\File\obj\Debug\File.csproj.AssemblyReference.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section28IOSerializationEncoding\File\File\obj\Debug\File.csproj.SuggestedBindingRedirects.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section28IOSerializationEncoding\File\File\obj\Debug\File.csproj.CoreCompileInputs.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section28IOSerializationEncoding\File\File\obj\Debug\File.exe
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section28IOSerializationEncoding\File\File\obj\Debug\File.pdb

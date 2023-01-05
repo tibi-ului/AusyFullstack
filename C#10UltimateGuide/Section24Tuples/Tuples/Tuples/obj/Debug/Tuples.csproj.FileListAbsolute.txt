@@ -1,0 +1,8 @@
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\Tuples\Tuples\bin\Debug\Tuples.exe.config
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\Tuples\Tuples\bin\Debug\Tuples.exe
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\Tuples\Tuples\bin\Debug\Tuples.pdb
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\Tuples\Tuples\obj\Debug\Tuples.csproj.AssemblyReference.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\Tuples\Tuples\obj\Debug\Tuples.csproj.SuggestedBindingRedirects.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\Tuples\Tuples\obj\Debug\Tuples.csproj.CoreCompileInputs.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\Tuples\Tuples\obj\Debug\Tuples.exe
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section24Tuples\Tuples\Tuples\obj\Debug\Tuples.pdb
